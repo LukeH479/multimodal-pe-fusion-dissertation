@@ -57,7 +57,7 @@ The project uses the **INSPECT** dataset, which contains linked CT imaging and s
 
 The INSPECT dataset itself is **not distributed in this repository**.
 
-Processed CT scans, EHR records and OMOP vocabulary data used during development were stored separately from the source repository.
+Processed CT scans, EHR records and OMOP vocabulary data used during development were stored separately from the source repository. These are not included in the repository
 
 Some derived metadata and experiment outputs may be included where appropriate.
 
